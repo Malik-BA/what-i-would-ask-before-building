@@ -1,0 +1,3 @@
+- What decisions should never be automated?
+- How are false positives handled?
+- Who explains AI decisions to customers?
